@@ -38,4 +38,4 @@ We want to drive learning by providing well crafted solutions that help the stud
 
 This project is based on Jupyter Notebooks, and all the student's activities are right in the notebook. Yours doesn't have to be that way. If your experience is with, for example, RStudio, your project can be done with R and RStudio. Or if you're experienced with SQL, your project can be about SQL Queries or desigining a Database.
 
-In those cases, your "submission"
+In those cases, your "submission" can be different. It can be just a zip file containing the Database and a Google Docs with the questions and solutions. It can be a Github repository, etc. As long as you maintain this format of well crafted activities and solutions, we're happy with it!
